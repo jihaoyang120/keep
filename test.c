@@ -1,7 +1,8 @@
- #include<stdio>
+ #include<stdio.h>
 
-int main(){
-print("aaa/n");
+int main(void){
+	printf("aaa/n");
+	printf("ccc");
 return 0;
 }
 
